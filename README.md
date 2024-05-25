@@ -1,14 +1,21 @@
 # M4Audio
-Windows cmd.exe
+
+Windows: cmd.exe
+
+Build
+
 ```
-copy video.mp4 audio.m4a
-copy VIDEO.3G2 audio.m4a
-copy VIDEO.3GP audio.m4a
+build
 ```
-audio.m4a Player
+
+Run
+
 ```
-M4Audio
+main
 ```
+
 ```
-audio.exe
+run
 ```
+
+SPDX-License-Identifier: MIT
